@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * @ClassName DateUtils
  * @Description 日期工具类
- * @Author <a mailto:"shen.ao@immomo.com">shen.ao</a>
+ * @Author shen.ao
  * @Date 2019/7/23 下午12:09
  **/
 public class DateUtils {
