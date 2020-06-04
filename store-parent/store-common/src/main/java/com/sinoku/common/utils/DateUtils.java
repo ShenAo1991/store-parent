@@ -18,6 +18,7 @@ public class DateUtils {
    * @param d
    * @param ptn
    * @return
+   *
    */
   public static String formatDate(Date d, String ptn) {
     SimpleDateFormat sf = new SimpleDateFormat(ptn);
